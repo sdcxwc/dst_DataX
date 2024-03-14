@@ -126,6 +126,7 @@
         <module>adbmysqlwriter</module>
         <module>neo4jwriter</module>
         <module>hanareader</module>
+        <module>hanawriter</module>
 
         <!-- common support module -->
         <module>plugin-rdbms-util</module>

@@ -1,0 +1,6 @@
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=pentaho-aggdesigner-algorithm -Dversion=5.1.5-jhyde  -Dpackaging=jar  -Dfile=pentaho-aggdesigner-algorithm-5.1.5-jhyde.jar
+
+mvn install:install-file -DgroupId=eigenbase -DartifactId=eigenbase-properties -Dversion=1.1.4 -Dpackaging=jar  -Dfile=eigenbase-properties-1.1.4.jar
+
+mvn install:install-file -DgroupId=org.apache.parquet -DartifactId=parquet-format -Dversion=2.3.0  -Dpackaging=jar  -Dfile=parquet-format-2.3.0-incubating.jar
+
